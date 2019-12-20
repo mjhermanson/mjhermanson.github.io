@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agile Integrations Workshop - Citizen Integrator on Red Hat | Public Sector</title>
+    <link>http://redhatgov.io/workshops/agile_integrations_ci/</link>
+    <description>Recent content in Agile Integrations Workshop - Citizen Integrator on Red Hat | Public Sector</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://redhatgov.io/workshops/agile_integrations_ci/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
